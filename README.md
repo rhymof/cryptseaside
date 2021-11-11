@@ -8,7 +8,7 @@ Cryptseaside generates seaside images using Unix nanoseconds as the seed value.
 ## Usage
 
 ```shell
-go install github.com/rhymof/cryptseaside
+go install github.com/rhymof/cryptseaside/cmd/cryptseaside
 ```
 
 ### options
@@ -44,3 +44,4 @@ Destructive changes may occur.
 * [ ] Feature: plot object(internal)
 * [ ] clouds
 * [ ] Special mode(new package)
+* [ ] Make sunset more beautiful
